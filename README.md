@@ -1,0 +1,1 @@
+# Smart_gate_using_servo_and_dc_motor
